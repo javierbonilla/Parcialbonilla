@@ -1,0 +1,38 @@
+PARCIAL 
+1)    Que estilo Arquitectónico cree usted que aplicaría al desarrollo de este proyecto
+RTA: Yo aplicaría el estilo REST ya que este estilo nos permite hacer un monitoreo constante con el GPS, por una de las funciones que tienes este estilo como la de enviar información 	 desde cualquier lugar del mundo por sus características como que tiene interface uniforme y posee recursos con nombres para facilitar la búsqueda de cualquier dato o en este caso la dirección, además tiene componentes en capas  y posee la ayuda de servidores proxy, servidores cache que pueden ser introducidos entre los clientes y los recursos, para ofrecer rendimiento, seguridad, etc 
+2)    Haga un modelo de casos de uso de este proyecto
+  
+ 
+2. Defina:
+
+a) stakeholders:
+	Es cualquier persona o entidad que es afectada por las actividades de 	una organización  por ejemplo, los trabajadores de una organización, sus 	accionistas, las asociaciones de vecinos, sindicatos, organizaciones civiles 	y gubernamentales, etc.
+
+
+b) inyección de dependencias: 
+	El patrón de inyección de dependencias consiste en hacer que nuestras piezas de 	software sean independientes comunicándose únicamente a través de un interface por 	esto se deben hacer muchas modificaciones en el código fuente, la eliminación de la 	instanciación de objetos mediante la instrucción new o la necesidad de un modo de 	configuración que indique que clases se instanciarán en el caso de solicitarlo.	
+
+
+c) débilmente acoplado: 
+	. Los sistemas débilmente acoplados son aquellos en los que existe poca interacción 	entre los diferentes procesadores que forman el sistema,  los computadores se comunican a través de paso de mensajes, ya que éstos sólo tienen acceso directo a su memoria local y no al las memorias del resto de procesadores.
+
+
+
+
+
+3) Cual es la diferencia entre maquina virtual y compiladores
+
+compilador :
+En el compilador el ejecutable va dirigido a una plataforma concreta (una CPU, un sistema operativo, y quizá alguna otra consideración), siendo prácticamente imposible portarlo a otra. En ocasiones, si existe un compilador para otra plataforma, se puede recompilar el programa, aunque normalmente esto plantea serias dificultades. Los programas que se van a compilar suelen estar muy ligados a la plataforma de destino; una vez compilado el programa, el código fuente no es necesario para ejecutarlo, así que puede permanecer en secreto si se desea, los errores sintácticos se detectan durante la compilación. Si el fuente contiene errores sintácticos, el compilador no producirá un ejecutable.
+
+maquina virtual:
+
+-Genera una especie de ejecutable, pero portable entre plataformas, dirigido a una CPU imaginaria, -El ejecutable va dirigido a una CPU imaginaria. Se puede transportar a una plataforma para la cual exista una "máquina virtual" (el intérprete de código intermedio);  -Los errores sintácticos se detectan durante la compilación.
+
+4) subir el presente parcial a un repositorio 
+
+
+CHRISTIAN JAVIER BONILLA CALDERON 
+ING SISTEMAS NOCTURNA 
+CODIGO 21120001
